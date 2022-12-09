@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "PS5",
+        "price": 500,
+        "description": "PlayStation 5",
+        "image": "images/ps5.webp"
+    },
+    {
+        "id": 2,
+        "name": "XBOX",
+        "price": 400,
+        "description": "Xbox Series X",
+        "image": "images/xboxsx.png"
+    },
+    {
+        "id": 3,
+        "name": "Nintendo Switch",
+        "price": 300,
+        "description": "Nintendo Switch",
+        "image": "images/nintendo.webp"
+    },
+    {
+        "id": 4,
+        "name": "God Of War Ragnarok",
+        "price": 50,
+        "description": "God Of War Ragnarok - PS5",
+        "image": "images/videogame.webp"
+    },
+    {
+        "id": 5,
+        "name": "PS5 - Controller",
+        "price": 70,
+        "description": "Control para PS5 - God of War Ragnarok Edition",
+        "image": "images/ps5-control.jpg"
+    },
+    {
+        "id": 6,
+        "name": "XBOX Series X/S - Controller",
+        "price": 60,
+        "description": "Control para Xbox Series X/S",
+        "image": "images/xbox-control.png"
+    },
+    {
+        "id": 7,
+        "name": "Nintendo Switch - Controller",
+        "price": 70,
+        "description": "Control para Nintento Switch - The Legend Of Zelda Edition",
+        "image": "images/nintento-control.jpg"
+    },
+    {
+        "id": 8,
+        "name": "The Callisto Protocol",
+        "price": 50,
+        "description": "The Callisto Protocol - PS5",
+        "image": "images/calistoprotocolps5.webp"
+    },
+    {
+        "id": 9,
+        "name": "Elden Ring",
+        "price": 50,
+        "description": "Elden Ring - Xbox",
+        "image": "images/eldenringxbox.jpg"
+    }
+
+]
