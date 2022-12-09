@@ -211,7 +211,7 @@ formularioUsuario.onsubmit = (event) => {
 const infoUsuarioStorage = JSON.parse(localStorage.getItem('infoUsuario'))
 
 if(infoUsuarioStorage.nombre !== "" || infoUsuarioStorage.apellido !== "") {
-    tituloBienvenida.innerText =  `Hola ${infoUsuarioStorage.nombre} ${infoUsuarioStorage.apellido}, Comencemos con tu compra!!!`
+    tituloBienvenida.innerText =  `Hola ${infoUsuarioStorage.nombre} ${infoUsuarioStorage.apellido}, Comencemos con tu compra, solo haz click en la imagen del producto que deseas.!!!`
 }
 
 
